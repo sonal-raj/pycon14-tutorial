@@ -1,3 +1,3 @@
 pycon14-tutorial
 ---
-Presentation and code for my proposed talk for Pycon India 2014
+Proposal, Presentation, Code and Resources for my proposed talk at Pycon India 2014.
